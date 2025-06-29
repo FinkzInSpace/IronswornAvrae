@@ -103,4 +103,4 @@ if id == 5:
 return '\n'.join(out)
 
 </drac2>
--footer '!SessionMove -t "Move Type" -id # '
+-footer '!connectionMove -t "Move Type" -id # -m # -a "attribute"'

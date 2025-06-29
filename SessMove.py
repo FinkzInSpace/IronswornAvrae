@@ -62,4 +62,4 @@ if id == 6:
 return '\n'.join(out)
 
 </drac2>
--footer '!SessionMove -t "Move Type" -id # '
+-footer '!sessionMove -t "Move Type" -id # '

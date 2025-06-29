@@ -50,7 +50,6 @@ if id == 1 or userInput == "Swear Vow" or userInput == "Swear an Iron Vow":
         out.append(f''' -f"**ERROR**: No outcome deteremined." ''')
     if match: 
         out.append(f''' -f "***Match***: The match represents a twist in the narrative, something interesting, or a new opportunity." ''')
-    
 
 # Reach a Milestone
 if id == 2 or userInput == "Milestone" or userInput == "Reach a Milestone" or userInput == "Reach A Milestone":
