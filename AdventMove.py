@@ -118,4 +118,4 @@ if id == 7:
 return '\n'.join(out)
 
 </drac2>
--footer '!adventureMove -t "Move Type" -id # -m # -a "attribute"'
+-footer '!AdventureMoves -t "Move Type" -id # -m # -a "attribute"'
